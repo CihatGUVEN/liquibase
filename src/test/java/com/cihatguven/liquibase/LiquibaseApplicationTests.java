@@ -1,10 +1,10 @@
-package com.cihatguven.dbrouting;
+package com.cihatguven.liquibase;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DbroutingApplicationTests {
+class LiquibaseApplicationTests {
 
 	@Test
 	void contextLoads() {
